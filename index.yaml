@@ -16,4 +16,25 @@ entries:
     urls:
     - https://github.com/ngin-y/helm/releases/download/example-0.0.1/example-0.0.1.tgz
     version: 0.0.1
+  rancher-nginx-ingress:
+  - apiVersion: v1
+    appVersion: 1.7.1
+    created: "2020-06-17T20:31:06.275125404Z"
+    description: NGINX Ingress Controller for Rancher
+    digest: 857bc96d42e0a51c293a6339d6c4a94faf2b742f545d1a85af3ec83847d0984d
+    home: https://ngin-y.github.io/helm/
+    icon: https://raw.githubusercontent.com/ngin-y/helm/master/charts/rancher-nginx-ingress/chart-icon.png
+    keywords:
+    - ingress
+    - nginx
+    - rancher
+    maintainers:
+    - email: dylen.turnbull@gmail.com
+      name: DylenTurnbull
+    name: rancher-nginx-ingress
+    sources:
+    - https://github.com/ngin-y/helm
+    urls:
+    - https://github.com/ngin-y/helm/releases/download/rancher-nginx-ingress-0.0.1/rancher-nginx-ingress-0.0.1.tgz
+    version: 0.0.1
 generated: "2020-06-17T20:07:52.42316784Z"
