@@ -1,4 +1,4 @@
-# Charts Repo Actions Demo
+# NGIN-Y Helm Repository
 
 [![](https://github.com/helm/charts-repo-actions-demo/workflows/Release%20Charts/badge.svg?branch=master)](https://github.com/helm/charts-repo-actions-demo/actions)
 
