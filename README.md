@@ -2,11 +2,11 @@
 
 [![](https://github.com/helm/charts-repo-actions-demo/workflows/Release%20Charts/badge.svg?branch=master)](https://github.com/helm/charts-repo-actions-demo/actions)
 
+NGINX BD use only, project to demo, test, and host a chart repository with GitHub Pages and Actions.
+
 ```
 https://ngin-y.github.io/helm/
 ```
-
-NGINX BD use only, project to demo, test, and host a chart repository with GitHub Pages and Actions.
 
 ## Actions
 
