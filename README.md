@@ -1,2 +1,2 @@
 # helm
-Helm charts for used with ngin-y projects.
+Helm charts for use with ngin-y projects.

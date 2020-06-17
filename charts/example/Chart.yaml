@@ -1,0 +1,11 @@
+apiVersion: v1
+appVersion: "3.9"
+description: Deploy a basic Alpine Linux pod
+home: https://industriouscollective.com
+maintainers:
+  - email: dylen.turnbull@gmail.com
+    name: DylenTurnbull
+name: example
+sources:
+  - https://github.com/DylenTurnbull/charts
+version: 0.0.1
