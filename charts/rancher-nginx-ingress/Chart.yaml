@@ -6,7 +6,7 @@ keywords:
 - ingress
 - nginx
 - rancher
-home: 
+home: https://ngin-y.github.io/helm/
 maintainers:
   - email: dylen.turnbull@gmail.com
     name: DylenTurnbull
