@@ -1,0 +1,16 @@
+apiVersion: v1
+appVersion: "1.7.1"
+description: NGINX Ingress Controller for Rancher
+icon: https://raw.githubusercontent.com/ngin-y/helm/master/charts/rancher-nginx-ingress/chart-icon.png
+keywords:
+- ingress
+- nginx
+- rancher
+home: 
+maintainers:
+  - email: dylen.turnbull@gmail.com
+    name: DylenTurnbull
+name: rancher-nginx-ingress
+sources:
+  - https://github.com/ngin-y/helm
+version: 0.0.1
