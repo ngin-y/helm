@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  example:
+  - apiVersion: v1
+    appVersion: "3.9"
+    created: "2020-06-17T20:07:52.670935467Z"
+    description: Deploy a basic Alpine Linux pod
+    digest: 23456edab193f8b218f1f6a1fcdf92bbc5e6b5d092a6d3a44b717c9f6fe35f13
+    home: https://industriouscollective.com
+    maintainers:
+    - email: dylen.turnbull@gmail.com
+      name: DylenTurnbull
+    name: example
+    sources:
+    - https://github.com/DylenTurnbull/charts
+    urls:
+    - https://github.com/ngin-y/helm/releases/download/example-0.0.1/example-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-06-17T20:07:52.42316784Z"
