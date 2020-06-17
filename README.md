@@ -39,7 +39,7 @@ You can automatically test and host a chart repository with GitHub Pages and Act
 The above [prerequisites](#prerequisites) _must_ be complete before the steps below, or your charts' initial versions won't be released.
  
 * Create a new branch
-* Add a new chart to the charts directory see [example](https://github.com/ngin-y/helm/tree/master/charts/example) chart)
+* Add a new chart to the charts directory see [example](https://github.com/ngin-y/helm/tree/master/charts/example) chart.
 * Add, commit, and push to repo
 * Create a pull request
     * Iterate through testing until first workflow is passed
